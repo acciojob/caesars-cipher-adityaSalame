@@ -26,12 +26,13 @@ for(let i=0;i<encodedStr.length;i++){
 }
 	//document.write(ans+""+typeof(decodedArr));
 	decodedArr.push(ans);
+	
   return decodedArr;//decodedArr; //return decodedArr
 }
 
 // You can test your code by running the above function and printing it to console by pressing the run button at the top. To run it with input 36, uncomment the following line
 
-document.write(rot13("SERR YBIR? NPPVBWBO"));
+//document.write(rot13("SERR YBIR? NPPVBWBO"));
 
 // Do not change this line
 
